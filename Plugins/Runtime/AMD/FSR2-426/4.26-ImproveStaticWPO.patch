@@ -1,0 +1,91 @@
+From b87d26ff0c578e222e3cad241893dfad5299db05 Mon Sep 17 00:00:00 2001
+From: msattert <Mark.Satterthwaite@amd.com>
+Date: Fri, 19 Aug 2022 16:27:04 -0400
+Subject: [PATCH] Change the engine to allow WPO materials to write velocity
+ even when marked as Static - this will come with a perf. cost (as more WPO
+ objects render velocity) but is necessary for FSR2 to function properly.
+
+---
+ .../Source/Runtime/Engine/Private/PrimitiveSceneProxy.cpp | 8 +++++++-
+ Engine/Source/Runtime/Engine/Public/PrimitiveSceneProxy.h | 2 +-
+ .../Source/Runtime/Renderer/Private/SceneVisibility.cpp   | 4 ++++
+ .../Source/Runtime/Renderer/Private/VelocityRendering.cpp | 2 +-
+ 4 files changed, 13 insertions(+), 3 deletions(-)
+
+diff --git a/Engine/Source/Runtime/Engine/Private/PrimitiveSceneProxy.cpp b/Engine/Source/Runtime/Engine/Private/PrimitiveSceneProxy.cpp
+index bcef6749e..aa8f02119 100644
+--- a/Engine/Source/Runtime/Engine/Private/PrimitiveSceneProxy.cpp
++++ b/Engine/Source/Runtime/Engine/Private/PrimitiveSceneProxy.cpp
+@@ -261,7 +261,7 @@ FPrimitiveSceneProxy::FPrimitiveSceneProxy(const UPrimitiveComponent* InComponen
+ 
+ 	static const auto CVarVertexDeformationOutputsVelocity = IConsoleManager::Get().FindConsoleVariable(TEXT("r.VertexDeformationOutputsVelocity"));
+ 
+-	if (!bAlwaysHasVelocity && IsMovable() && CVarVertexDeformationOutputsVelocity && CVarVertexDeformationOutputsVelocity->GetInt())
++	if (!bAlwaysHasVelocity && CVarVertexDeformationOutputsVelocity && CVarVertexDeformationOutputsVelocity->GetInt())
+ 	{
+ 		ERHIFeatureLevel::Type FeatureLevel = GetScene().GetFeatureLevel();
+ 
+@@ -284,6 +284,12 @@ FPrimitiveSceneProxy::FPrimitiveSceneProxy(const UPrimitiveComponent* InComponen
+ 						bAlwaysHasVelocity = MaterialResource->MaterialModifiesMeshPosition_RenderThread();
+ 					}
+ 
++					// Materials that use WPO only when explicitly enabled by a MaterialInstance will report false above as the evaluation uses the default value of the parameter which is false.
++					if (!bAlwaysHasVelocity)
++					{
++						bAlwaysHasVelocity = MaterialResource->MaterialMayModifyMeshPosition();
++					}
++
+ 					if (bAlwaysHasVelocity)
+ 					{
+ 						break;
+diff --git a/Engine/Source/Runtime/Engine/Public/PrimitiveSceneProxy.h b/Engine/Source/Runtime/Engine/Public/PrimitiveSceneProxy.h
+index b004f2a2c..6e4f4a696 100644
+--- a/Engine/Source/Runtime/Engine/Public/PrimitiveSceneProxy.h
++++ b/Engine/Source/Runtime/Engine/Public/PrimitiveSceneProxy.h
+@@ -557,7 +557,7 @@ public:
+ 
+ 	/** Returns whether draws velocity in base pass. */
+ 	inline bool DrawsVelocity() const {
+-		return IsMovable();
++		return IsMovable() || AlwaysHasVelocity();
+ 	}
+ 
+ #if WITH_EDITOR
+diff --git a/Engine/Source/Runtime/Renderer/Private/SceneVisibility.cpp b/Engine/Source/Runtime/Renderer/Private/SceneVisibility.cpp
+index 7343a704a..07c84c52a 100644
+--- a/Engine/Source/Runtime/Renderer/Private/SceneVisibility.cpp
++++ b/Engine/Source/Runtime/Renderer/Private/SceneVisibility.cpp
+@@ -1975,6 +1975,9 @@ struct FRelevancePacket
+ 
+ 	void ComputeRelevance()
+ 	{
++		static const auto CVarVertexDeformationOutputsVelocity = IConsoleManager::Get().FindConsoleVariable(TEXT("r.VertexDeformationOutputsVelocity"));
++		bool const bWPORendersVelocity = (CVarVertexDeformationOutputsVelocity && CVarVertexDeformationOutputsVelocity->GetInt());
++
+ 		CombinedShadingModelMask = 0;
+ 		bSceneHasSkyMaterial = 0;
+ 		bHasSingleLayerWaterMaterial = 0;
+@@ -1992,6 +1995,7 @@ struct FRelevancePacket
+ 			FPrimitiveSceneInfo* PrimitiveSceneInfo = Scene->Primitives[BitIndex];
+ 			FPrimitiveViewRelevance& ViewRelevance = const_cast<FPrimitiveViewRelevance&>(View.PrimitiveViewRelevanceMap[BitIndex]);
+ 			ViewRelevance = PrimitiveSceneInfo->Proxy->GetViewRelevance(&View);
++			ViewRelevance.bVelocityRelevance |= (PrimitiveSceneInfo->Proxy->AlwaysHasVelocity() && !ViewRelevance.HasTranslucency() && !ViewRelevance.HasVelocity() && bWPORendersVelocity);
+ 			ViewRelevance.bInitializedThisFrame = true;
+ 
+ 			const bool bStaticRelevance = ViewRelevance.bStaticRelevance;
+diff --git a/Engine/Source/Runtime/Renderer/Private/VelocityRendering.cpp b/Engine/Source/Runtime/Renderer/Private/VelocityRendering.cpp
+index 2eb09d737..9f3f5f0d1 100644
+--- a/Engine/Source/Runtime/Renderer/Private/VelocityRendering.cpp
++++ b/Engine/Source/Runtime/Renderer/Private/VelocityRendering.cpp
+@@ -400,7 +400,7 @@ bool FOpaqueVelocityMeshProcessor::PrimitiveCanHaveVelocity(EShaderPlatform Shad
+ 		return false;
+ 	}
+ 
+-	if (!PrimitiveSceneProxy->IsMovable())
++	if (!PrimitiveSceneProxy->IsMovable() && !PrimitiveSceneProxy->AlwaysHasVelocity())
+ 	{
+ 		return false;
+ 	}
+-- 
+2.37.0.windows.1
+

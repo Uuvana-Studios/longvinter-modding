@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.10.3",
+	"FriendlyName": "UIWS",
+	"Description": "Unified Interactive Water System with caustics and foliage interaction",
+	"Category": "egray.io",
+	"CreatedBy": "Elliot Gray",
+	"CreatedByURL": "https://egray.io",
+	"DocsURL": "https://egray.io/uiwsdocs",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/97ef36447df7427ca9b46edf1a438731",
+	"SupportURL": "https://egray.io/uiwsdocs",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UIWS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Android",
+				"Mac",
+				"IOS",
+				"PS4",
+				"XboxOne",
+				"Switch",
+				"Linux"
+			]
+		}
+	]
+}

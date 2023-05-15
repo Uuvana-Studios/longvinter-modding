@@ -1,0 +1,7 @@
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\Definitions.FSR2TemporalUpscaling.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Intermediate/Build/Win64/UE4Editor/Inc/FSR2TemporalUpscaling/FSR2Settings.gen.cpp
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling/Public/FSR2Settings.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Inc\FSR2TemporalUpscaling\FSR2Settings.generated.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Intermediate/Build/Win64/UE4Editor/Inc/FSR2TemporalUpscaling/FSR2TemporalUpscaling.init.gen.cpp

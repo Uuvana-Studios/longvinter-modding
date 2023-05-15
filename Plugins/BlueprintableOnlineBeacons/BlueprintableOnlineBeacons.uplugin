@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.1",
+	"FriendlyName": "Blueprintable Online Beacons",
+	"Description": "This plugin exposes the Online Beacon functionality onto Blueprints.",
+	"Category": "Networking",
+	"CreatedBy": "Alan Bunese",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/12vvpOC8-liY3qUIV3ByEQecco3GiudjQ2mnV-BuqNoY/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/22087fb2e2494de6a2641d7cc97e07f0",
+	"SupportURL": "mailto:arbunese@gmail.com",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BlueprintableOnlineBeacons",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		}
+	]
+}

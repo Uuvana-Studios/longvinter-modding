@@ -1,0 +1,331 @@
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\Definitions.FSR2TemporalUpscaling.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/FSR2Settings.cpp
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Public\FSR2Settings.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Inc\FSR2TemporalUpscaling\FSR2Settings.generated.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/FSR2TemporalUpscaler.cpp
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Private\FSR2TemporalUpscaler.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessing.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ScreenPass.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameters.inl
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess/SceneFilterRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess\SceneRenderTargets.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess\../TranslucencyPass.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess\../VT/VirtualTextureFeedback.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\VT/VirtualTextureFeedbackBuffer.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\RenderTargetTemp.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\SceneRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ScenePrivateBase.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\MeshDrawShaderBindings.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\DistortionRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HeightfieldLighting.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\LightShaftRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\SkyAtmosphereRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\MeshDrawCommands.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\GpuDebugRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessAmbientOcclusionMobile.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ScreenPass.inl
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\TranslucentRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\VolumeRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess/RenderingCompositionGraph.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\PostProcessParameters.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess\../ScenePrivate.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\SceneCore.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Containers/AllocatorFixedSizeFreeList.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\LightSceneInfo.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\DepthRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\SceneHitProxyRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ShadowRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\SystemTextures.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\LightRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\LightPropagationVolume.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands/HairStrandsRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsUtils.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Public\HairStrandsInterface.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsCluster.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVoxelization.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDeepShadow.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsClusters.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsLUT.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVisibility.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsTransmittance.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsEnvironment.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsComposition.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDebug.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\LightMapRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\LightMap.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightMapTexture2D.generated.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\VelocityRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\BasePassRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\FogRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\VolumetricFog.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PlanarReflectionRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ReflectionEnvironment.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\MobileBasePassRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\SceneSoftwareOcclusion.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\LightMapDensityRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\VolumetricFogShared.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\DebugViewModeRendering.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\PrecomputedVolumetricLightmap.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\RayTracing/RaytracingOptions.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\RayTracing/RayTracingIESLightProfiles.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\Halton.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\HaltonUtilities.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\VolumetricRenderTargetViewStateData.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\BasePassRendering.inl
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessUpscale.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\OverridePassSequence.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
+C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneViewExtensionContext.generated.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\PostProcess/TemporalAA.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ScreenSpaceDenoise.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Private\FSR2TemporalUpscalerHistory.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Private\FSR2Include.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Api\Public\FFXFSR2.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\ime_cmodes.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2_interface.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_assert.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_types.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_util.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_error.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_resources.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_common.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Vulkan\Public\FFXFSR2Vulkan.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Vulkan\Public\FFXFSR2VulkanModule.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Vulkan\Public\FSR2VulkanLoader.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\vk/ffx_fsr2_vk.h
+C:\Ue4Longvinter\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan/vulkan.h
+C:\Ue4Longvinter\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
+C:\Ue4Longvinter\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscalingVulkan\Public\FSR2TemporalUpscalingVulkan.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscalingVulkan\Public\../../FSR2TemporalUpscaling/Public/FSR2TemporalUpscalingAPI.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2D3D12\Public\FFXFSR2D3D12.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\dx12/ffx_fsr2_dx12.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\d3d12.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\OCIdl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\dxgicommon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\dxgiformat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\d3dcommon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\d3d12sdklayers.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscalingD3D12\Public\FSR2TemporalUpscalingD3D12.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Public\FSR2ScreenPercentageData.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\CustomStaticScreenPercentage.h
+C:\Ue4Longvinter\UE\Engine\Source\Editor\UnrealEd\Public\CustomEditorStaticScreenPercentage.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Public\FSR2TemporalUpscaling.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Private\RHI/FSR2TemporalUpscalerRHIBackend.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\SceneTextureParameters.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Private\LogFSR2.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\LegacyScreenPercentageDriver.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\PlanarReflectionSceneProxy.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Renderer\Private\ScreenSpaceRayTracing.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\FXSystem.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanRHIBridge.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/FSR2TemporalUpscalerHistory.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/FSR2TemporalUpscaling.cpp
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/FSR2ViewExtension.cpp
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Public\FSR2ViewExtension.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Landscape\Classes\LandscapeProxy.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Landscape\Classes\LandscapeComponent.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Landscape\Classes\LandscapePhysicalMaterial.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Landscape\Classes\LandscapeWeightmapUsage.h
+C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeWeightmapUsage.generated.h
+C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeComponent.generated.h
+C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeProxy.generated.h
+C:\Ue4Longvinter\UE\Engine\Source\Runtime\Engine\Classes\Components/HierarchicalInstancedStaticMeshComponent.h
+C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HierarchicalInstancedStaticMeshComponent.generated.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerAccumulatePass.cpp
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Private\RHI\FSR2TemporalUpscalerShaders.h
+C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscaling\Private\RHI\FSR2TemporalUpscalerSubPass.h
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerAutogenReactiveMaskPass.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerComputeLuminancePyramidPass.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerDepthClipPass.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerLockPass.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerRCASPass.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerReconstructPrevDepthPass.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerRHIBackend.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerShaders.cpp
+C:/Users/Uuvana ZenBook pro15/Documents/Perforce/longvinter-e/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FSR2TemporalUpscaling/Private/RHI/FSR2TemporalUpscalerTcrAutogenerate.cpp

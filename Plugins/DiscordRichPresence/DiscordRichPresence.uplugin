@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0",
+	"FriendlyName": "Discord Rich Presence",
+	"Description": "Implements Discord Rich Presence into your game with ease!",
+	"Category": "Integrations",
+	"CreatedBy": "Jonathan Verbeek",
+	"CreatedByURL": "https://jverbeek.de",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bea6edf5f297438ca3e8340702749642",
+	"SupportURL": "mailto:iredcraft@gmail.com",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DiscordRichPresence",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}
