@@ -1,5 +1,6 @@
 # Longvinter Modding Guide
 **For assistance and discussions, visit the 🔧-modding channel on the official **[Longvinter Discord](https://discord.com/invite/longvinter)**.**
+
 ## Setup
 1. Download [Unreal Engine 4.26](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/ProgrammingWithCPP/DownloadingSourceCode/) source build 
 2. [Build](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/DevelopmentSetup/BuildingUnrealEngine/) the engine from the source
@@ -126,10 +127,14 @@ Now you can just place the whole packaged mod folder inside your game's (and ser
 Uploading to the workshop is done through the workshop upload tool in game  
 You can find the upload tool on the mods page in the settings
 
-![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/a52ea15e-ba2f-468a-b79c-69fdcde99b90)
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/53ba7ce2-872e-4013-b21f-f9e246797868)
 
 Now just fill in the information and copy paste the `Mod folder` path  
 For the `Preview image` make sure that the image is less than **1MB** in size and in a **square format**  
 The usual display size in the Steam Workshop is 200×200 pixels
 
-...
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/a52ea15e-ba2f-468a-b79c-69fdcde99b90)
+
+After clicking the upload button the Mod will start uploading  
+If the mod upload was successful you should get **OK** and the window should close  
+If you get **LimitExceeded** it means that your preview image is too large
