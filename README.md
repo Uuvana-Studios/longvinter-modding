@@ -138,3 +138,5 @@ The usual display size in the Steam Workshop is 200×200 pixels
 After clicking the upload button the Mod will start uploading  
 If the mod upload was successful you should get **OK** and the window should close  
 If you get **LimitExceeded** it means that your preview image is too large
+
+**You can find the files to the unpackaged mod created in this guide on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2976144882).**
