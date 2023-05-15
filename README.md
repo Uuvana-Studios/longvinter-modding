@@ -1,5 +1,5 @@
 # Longvinter Modding Guide
-
+**For assistance and discussions, visit the 🔧-modding channel on the official **[Longvinter Discord](https://discord.com/invite/longvinter)**.**
 ## Setup
 1. Download [Unreal Engine 4.26](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/ProgrammingWithCPP/DownloadingSourceCode/) source build 
 2. [Build](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/DevelopmentSetup/BuildingUnrealEngine/) the engine from the source
