@@ -73,7 +73,7 @@ If you want to edit the placement collision for example, you will need to check 
 
 After you are done with the placeable then it's time to add it to the Item Data Holder that we added earlier  
 
-Go to the Item Data Handler and select the `AdditionalItems` variable
+Go to the Item Data Holder and select the `AdditionalItems` variable
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/efd85c7c-3ffc-4c0d-b834-1f9504a3dcc2)
 
@@ -87,8 +87,49 @@ In this example I am changing the following:
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/3b41cc63-d449-4d94-a12a-166f5c4592bc)
 
-### Testing the mod
+## Modifying a weapon
+
+Start by going to your Item Data Holder and clicking the AdditionalItems variable
+
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/efd85c7c-3ffc-4c0d-b834-1f9504a3dcc2)
+
+Add a new element to the array and change the values to your liking
+
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/4507b5bb-7849-4237-9b70-454e4cc01d38)
+
+To make a weapon you will need the following
+1. `Wearable` set to **true**
+2. `Weapon` set to **true**
+3. `Slot` set to **2**
+4. `Category` set to **Equipment**
+
+Inside WeaponStats you will find all weapon related values like the damage and fire rate
+
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/733c2db2-99dd-4d15-b7de-af43f1d51afe)
+
+### Packaging the mod
+
+Before the mod can be loaded with the game it needs to be packaged
+
+To package your game just press `File` &rarr; `Package UGC`
+
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/fedb3a15-6af4-42e4-abe3-382044005345)
+
+After the engine is done packaging you should get a packaged mod with a .pak file in there
+
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/b6b2b7e4-2340-4f94-b075-e68e90befab8)
+
+Now you can just place the whole packaged mod folder inside your game's (and server's) mods folder and test it
 
 ### Uploading to the Steam Workshop
+
+Uploading to the workshop is done through the workshop upload tool in game  
+You can find the upload tool on the mods page in the settings
+
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/a52ea15e-ba2f-468a-b79c-69fdcde99b90)
+
+Now just fill in the information and copy paste the `Mod folder` path  
+For the `Preview image` make sure that the image is less than **1MB** in size and in a **square format**  
+The usual display size in the Steam Workshop is 200×200 pixels
 
 ...
