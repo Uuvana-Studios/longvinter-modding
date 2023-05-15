@@ -1,0 +1,8 @@
+ - [DCC771244659CA85F562498281408E45] 
+	/Game/Widgets/UMG_OutsideWorldArea.UMG_OutsideWorldArea_C:Get_T_PlayerName_Text_0 [Script Bytecode] - "Update your game on Steam, server has newer version!" 
+	/Game/Widgets/UMG_OutsideWorldArea.UMG_OutsideWorldArea_C:Get_T_PlayerName_Text_0 [Script Bytecode] - "Server is running on an outdated build!" 
+
+ - [1C9082DB449F0447337FB48D69800D36] 
+	/Game/Widgets/UMG_ServerUpdateNotification.UMG_ServerUpdateNotification_C:Get_T_PlayerName_Text_0 [Script Bytecode] - "Update your game on Steam, server has newer version!" 
+	/Game/Widgets/UMG_ServerUpdateNotification.UMG_ServerUpdateNotification_C:Get_T_PlayerName_Text_0 [Script Bytecode] - "Server is running on an outdated build!" 
+

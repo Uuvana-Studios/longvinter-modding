@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-FFXFSR2Api.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2Api\Module.FFXFSR2Api.cpp.obj"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2Api\UE4Editor-FFXFSR2Api.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2Api\Module.FFXFSR2Api.cpp.obj"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2Api\UE4Editor-FFXFSR2Api.lib"
 /INCLUDE:IMPLEMENT_MODULE_FFXFSR2Api

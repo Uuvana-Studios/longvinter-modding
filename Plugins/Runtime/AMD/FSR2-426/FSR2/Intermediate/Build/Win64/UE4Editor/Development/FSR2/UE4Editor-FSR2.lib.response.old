@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FSR2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2\FSR2.cpp.obj"
+"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2\UE4Editor-FSR2.lib"
+/INCLUDE:IMPLEMENT_MODULE_FSR2

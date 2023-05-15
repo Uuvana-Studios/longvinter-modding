@@ -15,8 +15,6 @@ public class Longvinter : ModuleRules
             "InputCore", 
             "HeadMountedDisplay", 
             "OnlineSubsystem", 
-			"OnlineSubsystemRedpointEOS",
-			"RedpointEOSSDK",
             "OnlineSubsystemUtils", 
             "Steamworks",
             "Slate",
@@ -30,17 +28,5 @@ public class Longvinter : ModuleRules
         });
 
         DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
-		
-		PublicIncludePaths.Add(Path.Combine(ModuleDirectory, "../../Plugins/EOSOnlineSubsystem/Source/ThirdParty/Include"));
-		
-		if (Target.Platform == UnrealTargetPlatform.Win64) {
-			
-        PublicAdditionalLibraries.Add(Path.Combine(ModuleDirectory, "../../Plugins/EOSOnlineSubsystem/Source/ThirdParty/Lib/EOSSDK-Win64-Shipping.lib"));
-		
-	   }
-	   if (Target.Platform == UnrealTargetPlatform.Linux) {
-		   
-	   PublicAdditionalLibraries.Add(Path.Combine(ModuleDirectory, "../../Plugins/EOSOnlineSubsystem/Source/ThirdParty/Bin/libEOSSDK-Linux-Shipping.so"));
-	   }
     }
 }

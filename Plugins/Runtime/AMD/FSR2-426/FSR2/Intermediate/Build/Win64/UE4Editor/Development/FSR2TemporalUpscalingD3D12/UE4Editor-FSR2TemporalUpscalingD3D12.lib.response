@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-FSR2TemporalUpscalingD3D12.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingD3D12\FSR2TemporalUpscalingD3D12.cpp.obj"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingD3D12\UE4Editor-FSR2TemporalUpscalingD3D12.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingD3D12\FSR2TemporalUpscalingD3D12.cpp.obj"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingD3D12\UE4Editor-FSR2TemporalUpscalingD3D12.lib"
 /INCLUDE:IMPLEMENT_MODULE_FSR2TemporalUpscalingD3D12

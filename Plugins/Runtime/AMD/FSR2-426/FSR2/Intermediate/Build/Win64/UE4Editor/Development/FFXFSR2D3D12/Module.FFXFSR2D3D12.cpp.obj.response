@@ -31,9 +31,9 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\dx12"
-/I "C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\dx12"
-/I "C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2D3D12\Private"
+/I C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\dx12
+/I C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\dx12
+/I C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2D3D12\Private
 /I ThirdParty\Windows
 /I Runtime
 /I Runtime\TraceLog\Public
@@ -234,10 +234,10 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source"
-/I "C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2D3D12\Public"
-/I "C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api"
-/I "C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Api\Public"
+/I C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source
+/I C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2D3D12\Public
+/I C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api
+/I C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Api\Public
 /I ThirdParty\Windows\DirectX\include
 /I ThirdParty\Windows\D3DX12\include
 /I ThirdParty\PhysX3\PxShared\include
@@ -263,18 +263,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2D3D12\Module.FFXFSR2D3D12.cpp"
-/FI"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2D3D12\Definitions.FFXFSR2D3D12.h"
-/Fo"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2D3D12\Module.FFXFSR2D3D12.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2D3D12\Module.FFXFSR2D3D12.cpp"
+/FI"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2D3D12\Definitions.FFXFSR2D3D12.h"
+/Fo"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2D3D12\Module.FFXFSR2D3D12.cpp.obj"
 /TP
 /GR-
 /W4

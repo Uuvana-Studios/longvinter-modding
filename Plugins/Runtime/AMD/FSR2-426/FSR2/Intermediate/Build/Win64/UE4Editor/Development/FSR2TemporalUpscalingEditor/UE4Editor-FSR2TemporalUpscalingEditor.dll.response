@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:C:\Ue4Longvinter\UE\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:C:\UE\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -18,10 +18,10 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\lib\um\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -33,20 +33,20 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingEditor\Module.FSR2TemporalUpscalingEditor.cpp.obj"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Projects\UE4Editor-Projects.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Renderer\UE4Editor-Renderer.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelEditor\UE4Editor-LevelEditor.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\ToolMenus\UE4Editor-ToolMenus.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
-"C:\Ue4Longvinter\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
-"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\UE4Editor-FSR2TemporalUpscaling.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingEditor\Module.FSR2TemporalUpscalingEditor.cpp.obj"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Projects\UE4Editor-Projects.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Renderer\UE4Editor-Renderer.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelEditor\UE4Editor-LevelEditor.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\ToolMenus\UE4Editor-ToolMenus.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\UE4Editor-FSR2TemporalUpscaling.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -71,8 +71,8 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Binaries\Win64\UE4Editor-FSR2TemporalUpscalingEditor.dll"
-/IMPLIB:"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingEditor\UE4Editor-FSR2TemporalUpscalingEditor.suppressed.lib"
-/PDB:"C:\Users\Uuvana ZenBook pro15\Documents\Perforce\longvinter-e\Plugins\Runtime\AMD\FSR2-426\FSR2\Binaries\Win64\UE4Editor-FSR2TemporalUpscalingEditor.pdb"
+/OUT:"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Binaries\Win64\UE4Editor-FSR2TemporalUpscalingEditor.dll"
+/IMPLIB:"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingEditor\UE4Editor-FSR2TemporalUpscalingEditor.suppressed.lib"
+/PDB:"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Binaries\Win64\UE4Editor-FSR2TemporalUpscalingEditor.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_FSR2TemporalUpscalingEditor
