@@ -26,6 +26,9 @@
 4. You should now have a new empty folder in the content browser
 
 ## Adding a new Item Data Holder
+The **Item Data Holder** has a list of every single item in the game  
+Making a custom Item Data Holder allows you to add new items and replace existing ones
+
 Right click in the empty mod folder and click `Blueprint Class`  
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/be1aa9cc-4722-4b76-89f4-1b8690bd6e62)
