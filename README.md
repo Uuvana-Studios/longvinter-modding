@@ -25,8 +25,7 @@
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/055aba11-be4a-4f50-b42c-79ebbcda0676)
 8. Open **Properties** for `SimpleUGC.Automation` and choose the **Build** tab on the left. Set the **Output Path** to your source build's `Engine\Binaries\DotNET\AutomationScripts\` directory for both **Development and Debug Configurations**
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/37234462-af93-464b-b43f-1c86fbc05696)
-10. **Build** the AutomationTool project  
-![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/72da1ec3-aab0-4664-a810-e183bbc1c8b1)
+10. **Build** the **SimpleUGC.Automation** project  
 12. **Build** and run the **Longvinter** project in the Development Editor configuration
 
 **[More info about the SimpleUGC plugin and how to build/use it can be found here](https://github.com/EpicGames/UGCExample/blob/release/Documentation/QuickStart.md)**
