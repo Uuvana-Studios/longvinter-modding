@@ -1,6 +1,15 @@
 # Longvinter Modding Guide
 **For assistance and discussions, visit the 🔧-modding channel on the official **[Longvinter Discord](https://discord.com/invite/longvinter)**.**
 
+### Table of contents
+1. [Setup](#setup)
+2. [Creating a mod](#creating-a-mod)
+    1. [Item Data Holder](#adding-a-new-item-data-holder)
+    2. [Placeable](#adding-a-new-placeable)
+    3. [Weapon](#adding-a-new-weapon)
+3. [Packaging](#packaging-the-mod)
+4. [Steam Workshop](#uploading-to-the-steam-workshop)
+
 ## Setup
 1. Download [Unreal Engine 4.26](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/ProgrammingWithCPP/DownloadingSourceCode/) source build 
 2. [Build](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/DevelopmentSetup/BuildingUnrealEngine/) the engine from the source
@@ -19,13 +28,13 @@
 
 **[More info about the SimpleUGC plugin and how to build/use it can be found here](https://github.com/EpicGames/UGCExample/blob/release/Documentation/QuickStart.md)**
 
-## Making a Mod
+## Creating a Mod
 1. Open the Longvinter modding project  
 2. Go to `File` &rarr; `Create UGC`
 3. Fill in the `Name`, `Author` and `Description` and press `Create Mod`
 4. You should now have a new empty folder in the content browser
 
-## Adding a new Item Data Holder
+### Adding a new **Item Data Holder**
 The **Item Data Holder** has a list of every single item in the game  
 Making a custom Item Data Holder allows you to add new items and replace existing ones
 
@@ -54,7 +63,7 @@ Lastly make sure that `Show Inherited Variables` is checked
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/1c599ef7-ef5e-4474-a1a5-1baeb143aa86)
 
-## Adding a new placeable
+### Adding a new **Placeable**
 
 Start by right clicking on the mod folder again and adding a A_Placeable from the Blueprint Classes
 
@@ -91,7 +100,7 @@ In this example I am changing the following:
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/3b41cc63-d449-4d94-a12a-166f5c4592bc)
 
-## Adding a new weapon
+### Adding a new **Weapon**
 
 Start by going to your Item Data Holder and clicking the AdditionalItems variable
 
