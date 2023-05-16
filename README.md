@@ -15,7 +15,7 @@
 2. [Build](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/DevelopmentSetup/BuildingUnrealEngine/) the engine from the source
 3. Add a new directory called `Projects/` to the `UE4Games.uprojectdirs` file located in the Unreal Engine root folder  
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/59697938-5649-44e4-9f57-05fbdf65dab3)
-4. Download the Longvinter modding project and place it inside `UE/Projects/` (Create the folder if it does not exist yet)
+4. Download this repository and place it inside `UE/Projects/` (Create the folder if it does not exist yet)
 5. Run the `GenerateProjectFiles.bat` in your UE4 root directory
 6. Open the `UE4.sln`
 7. Verify that the build scripts are listed in the **Programs/Automation** directory  
