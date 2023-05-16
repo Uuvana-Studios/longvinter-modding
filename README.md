@@ -111,7 +111,7 @@ Inside WeaponStats you will find all weapon related values like the damage and f
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/733c2db2-99dd-4d15-b7de-af43f1d51afe)
 
-### Packaging the mod
+## Packaging the mod
 
 Before the mod can be loaded with the game it needs to be packaged
 
@@ -125,7 +125,7 @@ After the engine is done packaging you should get a packaged mod with a .pak fil
 
 Now you can just place the whole packaged mod folder inside your game's (and server's) mods folder and test it
 
-### Uploading to the Steam Workshop
+## Uploading to the Steam Workshop
 
 Uploading to the workshop is done through the workshop upload tool in game  
 You can find the upload tool on the mods page in the settings
