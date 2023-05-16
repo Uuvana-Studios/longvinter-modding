@@ -122,7 +122,10 @@ Inside WeaponStats you will find all weapon related values like the damage and f
 
 ## Packaging the mod
 
-Before the mod can be loaded with the game it needs to be packaged
+Before the mod can be loaded in the shipping verion of the game it needs to be packaged  
+Test your mod before packaging by clicking the play in editor button
+
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/63d1689c-39bf-42e7-a4bb-82ad9181fb14)
 
 To package your game just press `File` &rarr; `Package UGC`
 
