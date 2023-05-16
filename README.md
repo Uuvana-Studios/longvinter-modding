@@ -91,7 +91,7 @@ In this example I am changing the following:
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/3b41cc63-d449-4d94-a12a-166f5c4592bc)
 
-## Modifying a weapon
+## Adding a new weapon
 
 Start by going to your Item Data Holder and clicking the AdditionalItems variable
 
