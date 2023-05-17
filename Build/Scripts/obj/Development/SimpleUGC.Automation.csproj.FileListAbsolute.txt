@@ -1,0 +1,7 @@
+C:\UE\Engine\Binaries\DotNET\AutomationScripts\SimpleUGC.Automation.dll
+C:\UE\Engine\Binaries\DotNET\AutomationScripts\SimpleUGC.Automation.pdb
+C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-experimental\Build\Scripts\obj\Development\SimpleUGC.Automation.csproj.AssemblyReference.cache
+C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-experimental\Build\Scripts\obj\Development\SimpleUGC.Automation.csproj.CoreCompileInputs.cache
+C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-experimental\Build\Scripts\obj\Development\SimpleUGC.Automation.csproj.CopyComplete
+C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-experimental\Build\Scripts\obj\Development\SimpleUGC.Automation.dll
+C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-experimental\Build\Scripts\obj\Development\SimpleUGC.Automation.pdb
