@@ -48,11 +48,11 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
-Plugins/Runtime/AMD/FSR2-426/FSR2/Intermediate/*
-Plugins/Runtime/AMD/FSR2-426/FSR2/Binaries/*
+Plugins/Runtime/AMD/FSR2-426/FSR2/Intermediate/**
+Plugins/Runtime/AMD/FSR2-426/FSR2/Binaries/**
 # Builds
 Build/*
-Server/*
+Server/**
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
