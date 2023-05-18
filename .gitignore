@@ -14,7 +14,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+*.dllBinaries 
 
 # Fortran module files
 *.mod
@@ -48,7 +48,8 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
-
+Plugins/Runtime/AMD/FSR2-426/FSR2/Intermediate/*
+Plugins/Runtime/AMD/FSR2-426/FSR2/Binaries/*
 # Builds
 Build/*
 Server/*
