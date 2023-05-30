@@ -144,7 +144,7 @@ After the engine is done packaging you should get a packaged .zip file of the mo
 ## Testing the mod
 
 Extract the .zip file to `\Longvinter\SteamMods\<mod_name>`  
-Make sure that the `<mod_name>` folder is named the same as the **.uplugin** file you just extracted
+Make sure that the `<mod_name>` folder is named the same as the **.uplugin** file you just extracted  
 If you are missing the `SteamMods` folder then run the `MakeSymbolicLink.bat` in the game folder as adminstrator  
 
 You should now have something like this  
