@@ -8,7 +8,8 @@
     2. [Placeable](#adding-a-new-placeable)
     3. [Weapon](#adding-a-new-weapon)
 3. [Packaging](#packaging-the-mod)
-4. [Steam Workshop](#uploading-to-the-steam-workshop)
+4. [Testing](#testing-the-mod)
+5. [Steam Workshop](#uploading-to-the-steam-workshop)
 
 ## Setup
 1. Download [Unreal Engine 4.26](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/ProgrammingWithCPP/DownloadingSourceCode/) source build 
@@ -136,11 +137,24 @@ To package your game just press `File` &rarr; `Package UGC`
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/fedb3a15-6af4-42e4-abe3-382044005345)
 
-After the engine is done packaging you should get a packaged mod with a .pak file in there
+After the engine is done packaging you should get a packaged .zip file of the mod
 
-![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/b6b2b7e4-2340-4f94-b075-e68e90befab8)
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/d8fb3111-1c38-4e07-8954-023da58efef3)
 
-Now you can just place the whole packaged mod folder inside your game's (and server's) mods folder and test it
+## Testing the mod
+
+Extract the .zip file to `\Longvinter\SteamMods\<mod_name>`  
+Make sure that the `<mod_name>` folder is named the same as the **.uplugin** file you just extracted
+If you are missing the `SteamMods` folder then run the `MakeSymbolicLink.bat` in the game folder as adminstrator  
+
+You should now have something like this  
+`F:\SteamLibrary\steamapps\common\Longvinter\Longvinter\SteamMods\test`  
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/062390e9-09db-432d-8c3b-c62a7887a238)
+
+The last step is to run the `CopyMods.bat` in the game folder as adminstrator  
+This should copy your files from the `SteamMods` folder to the `Mods` folder in a correct format
+
+Now you can simply start your game from steam and go to the host server tab to test
 
 ## Uploading to the Steam Workshop
 
