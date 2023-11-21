@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{EFCBD79F-4F56-38B1-A8BE-E7B93C06D746}",
+	"EngineAssociation": "{38DC1758-4710-A578-207E-039414774D39}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -244,11 +244,6 @@
 			"Name": "VaRest",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
-		},
-		{
-			"Name": "OnlineSubsystemRedpointEOS",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2c92594ce5aa416c8bfbd79275389e3b"
 		},
 		{
 			"Name": "OnlineSubsystemBlueprints",

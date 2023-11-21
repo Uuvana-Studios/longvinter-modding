@@ -8,7 +8,8 @@
     2. [Placeable](#adding-a-new-placeable)
     3. [Weapon](#adding-a-new-weapon)
 3. [Packaging](#packaging-the-mod)
-4. [Steam Workshop](#uploading-to-the-steam-workshop)
+4. [Testing](#testing-the-mod)
+5. [Steam Workshop](#uploading-to-the-steam-workshop)
 
 ## Setup
 1. Download [Unreal Engine 4.26](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/ProgrammingWithCPP/DownloadingSourceCode/) source build 
@@ -18,15 +19,18 @@
 4. Download this repository and place it inside `UE/Projects/` (Create the folder if it does not exist yet)
 5. Run the `GenerateProjectFiles.bat` in your UE4 root directory
 6. Open the `UE4.sln`
-7. **Build** the **Longvinter** project in the Development configuration  
+7. **Build** the **Longvinter** project in the **Development Editor** configuration  
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/85a63e77-64a9-4106-bbb0-9575878be89a)  
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/af57eadf-fece-4399-b38f-ff0177947ede)
 9. Verify that the build scripts are listed in the **Programs/Automation** directory  
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/055aba11-be4a-4f50-b42c-79ebbcda0676)
 8. Open **Properties** for `SimpleUGC.Automation` and choose the **Build** tab on the left. Set the **Output Path** to your source build's `Engine\Binaries\DotNET\AutomationScripts\` directory for both **Development and Debug Configurations**
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/37234462-af93-464b-b43f-1c86fbc05696)
-10. **Build** the **SimpleUGC.Automation** project  
-12. **Build** and run the **Longvinter** project in the Development Editor configuration
+10. **Build** the **AutomationTool** project in the **Development** config  
+12. Right click the **Longvinter** project and click **Set as Startup Project**  
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/adcee4e6-4a2b-4239-910b-da58f38b564b)
+14. Run the **Longvinter** project in **Development Editor** config  
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/b68f6747-5d24-491f-bbc2-269da8dc1dce)
 
 **[More info about the SimpleUGC plugin and how to build/use it can be found here](https://github.com/EpicGames/UGCExample/blob/release/Documentation/QuickStart.md)**
 
@@ -133,11 +137,24 @@ To package your game just press `File` &rarr; `Package UGC`
 
 ![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/fedb3a15-6af4-42e4-abe3-382044005345)
 
-After the engine is done packaging you should get a packaged mod with a .pak file in there
+After the engine is done packaging you should get a packaged .zip file of the mod
 
-![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/b6b2b7e4-2340-4f94-b075-e68e90befab8)
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/d8fb3111-1c38-4e07-8954-023da58efef3)
 
-Now you can just place the whole packaged mod folder inside your game's (and server's) mods folder and test it
+## Testing the mod
+
+Extract the .zip file to `\Longvinter\SteamMods\<mod_name>`  
+Make sure that the `<mod_name>` folder is named the same as the **.uplugin** file you just extracted  
+If you are missing the `SteamMods` folder then run the `MakeSymbolicLink.bat` in the game folder as adminstrator  
+
+You should now have something like this  
+`F:\SteamLibrary\steamapps\common\Longvinter\Longvinter\SteamMods\test`  
+![image](https://github.com/Uuvana-Studios/longvinter-modding/assets/73204452/062390e9-09db-432d-8c3b-c62a7887a238)
+
+The last step is to run the `CopyMods.bat` in the game folder as adminstrator  
+This should copy your files from the `SteamMods` folder to the `Mods` folder in a correct format
+
+Now you can simply start your game from steam and go to the host server tab to test
 
 ## Uploading to the Steam Workshop
 
