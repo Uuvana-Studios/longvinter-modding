@@ -1,3 +1,7 @@
+ - 85BCD44046C57AFF239F98A9ACBDB360 
+	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(218).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E - "Navigation is key" 
+	/Game/Widgets/Inventory/UMG_PlantCollector.Default__UMG_PlantCollector_C.items.Items_3_DA3E476B498281EF494BA4AE8483337F(218).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E - "Navigation is key (M to open)" 
+
  - [DCC771244659CA85F562498281408E45] 
 	/Game/Widgets/UMG_OutsideWorldArea.UMG_OutsideWorldArea_C:Get_T_PlayerName_Text_0 [Script Bytecode] - "Update your game on Steam, server has newer version!" 
 	/Game/Widgets/UMG_OutsideWorldArea.UMG_OutsideWorldArea_C:Get_T_PlayerName_Text_0 [Script Bytecode] - "Server is running on an outdated build!" 

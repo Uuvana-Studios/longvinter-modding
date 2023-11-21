@@ -1,4 +1,4 @@
-// © 2021 Uuvana Studios Oy. All Rights Reserved.
+﻿// © 2021 Uuvana Studios Oy. All Rights Reserved.
 
 #pragma once
 
@@ -32,4 +32,8 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "")
 	void DeleteOldFiles();
+
+	UFUNCTION(BlueprintCallable, Category = "Network|Utilities", meta = (WorldContext = "WorldContextObject"))
+		static FString GetPlayerIPAddress(APlayerController* Player);
+
 };

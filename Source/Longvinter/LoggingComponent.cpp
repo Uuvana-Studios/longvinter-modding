@@ -1,8 +1,10 @@
-// © 2021 Uuvana Studios Oy. All Rights Reserved.
+﻿// © 2021 Uuvana Studios Oy. All Rights Reserved.
 
 
 #include "LoggingComponent.h"
 #include "Misc/FileHelper.h"
+#include "GameFramework/PlayerController.h"
+#include "Engine/NetConnection.h"
 
 // Sets default values for this component's properties
 ULoggingComponent::ULoggingComponent()
@@ -60,4 +62,17 @@ void ULoggingComponent::DeleteOldFiles() {
 			}
 		}
 	}
+}
+
+FString ULoggingComponent::GetPlayerIPAddress(APlayerController* Player)
+{
+	if (!Player) return TEXT("Invalid Player");
+
+	UNetConnection* NetConnection = Player->GetNetConnection();
+	if (NetConnection && NetConnection->IsValidLowLevel())
+	{
+		return NetConnection->LowLevelGetRemoteAddress();
+	}
+
+	return TEXT("IP not found");
 }
