@@ -114,6 +114,17 @@ void ALongvinterCharacter::MoveForward(float Value)
 {
 	if ((Controller != nullptr) && (Value != 0.0f))
 	{
+		if (bInBoatCPP) {
+			return;
+		}
+
+		if (Value > 0.5) {
+			Value = 1;
+		}
+		else if (Value < -0.5) {
+			Value = -1;
+		}
+
 		// find out which way is forward
 		const FRotator Rotation = Controller->GetControlRotation();
 		const FRotator YawRotation(0, Rotation.Yaw, 0);
@@ -128,6 +139,17 @@ void ALongvinterCharacter::MoveRight(float Value)
 {
 	if ( (Controller != nullptr) && (Value != 0.0f) )
 	{
+		if (bInBoatCPP) {
+			return;
+		}
+
+		if (Value > 0.5) {
+			Value = 1;
+		}
+		else if (Value < -0.5) {
+			Value = -1;
+		}
+
 		// find out which way is right
 		const FRotator Rotation = Controller->GetControlRotation();
 		const FRotator YawRotation(0, Rotation.Yaw, 0);

@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2022.10.07",
+	"FriendlyName": "ImageCache",
+	"Description": "Cache net images to local disk.",
+	"Category": "Other",
+	"CreatedBy": "Qibo Pang",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5b7c22cb59734b4fb3bbc3d737712b74",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ImageCache",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win32",
+				"Win64",
+				"IOS",
+				"Android"
+			]
+		}
+	]
+}

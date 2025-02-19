@@ -9,13 +9,6 @@ public class Ping : ModuleRules
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		bEnforceIWYU = true;
 		bLegacyPublicIncludePaths = false;
-
-		PublicIncludePaths.AddRange(
-			new string[] {
-				"Ping/Public"
-				// ... add public include paths required here ...
-			}
-			);
 				
 		
 		PrivateIncludePaths.AddRange(

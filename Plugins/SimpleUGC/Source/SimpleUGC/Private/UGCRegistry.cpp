@@ -15,7 +15,9 @@
 
 bool UUGCRegistry::FindUGCPackages()
 {
-	TArray<TSharedRef<IPlugin>> EnabledPlugins = IPluginManager::Get().GetEnabledPlugins();
+    IPluginManager& PluginManager = IPluginManager::Get();
+    PluginManager.RefreshPluginsList();
+	TArray<TSharedRef<IPlugin>> EnabledPlugins = PluginManager.GetEnabledPlugins();
 	for (const TSharedRef<IPlugin>& Plugin : EnabledPlugins)
 	{
 		if (Plugin->GetLoadedFrom() == EPluginLoadedFrom::Project && Plugin->GetDescriptor().Category == "UGC")
@@ -30,6 +32,29 @@ bool UUGCRegistry::FindUGCPackages()
 	}
 
 	return UGCPackages.Num() > 0;
+}
+
+void UUGCRegistry::FindPackageSteamID(FUGCPackage Package, FString& SteamID, bool& Success) {
+    IFileManager& FileManager = IFileManager::Get();
+
+    FString modsPath = FPaths::ProjectModsDir();
+    FString pkgFolder = Package.PackagePath.Replace(TEXT("/"), TEXT(""));
+    FString pkgPath = modsPath + pkgFolder + "/";
+
+    TArray<FString> files;
+    FileManager.FindFiles(files, *(pkgPath + "*"), true, false);
+
+    for (FString file : files) {
+        FString specifier = "workshopID";
+        if (file.Contains(specifier)) {
+            SteamID = FPaths::GetBaseFilename(*(pkgPath + file));
+            Success = true;
+            return;
+        }
+    }
+
+    Success = false;
+    return;
 }
 
 bool UUGCRegistry::GetAllClassesInPackage(FUGCPackage Package, TArray<UClass*> &Classes)

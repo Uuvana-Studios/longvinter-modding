@@ -20,13 +20,20 @@ public class Longvinter : ModuleRules
             "Slate",
             "SlateCore",
             "GamepadUMGPlugin",
-            "ProceduralDungeon"
+			"SteamCore",
+            "ProceduralDungeon",
+            "PakFile",
+            "XmlParser",
+            "HTTP",
+			"Sockets",
+            "Networking"      
         });
 
         PrivateDependencyModuleNames.AddRange(new string[] {
-
+            
         });
 
         DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
+	
     }
 }

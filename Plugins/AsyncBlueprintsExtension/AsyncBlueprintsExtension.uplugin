@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.1",
+	"FriendlyName": "Async Blueprints Extension",
+	"Description": "Provides functions and classes for async operations",
+	"Category": "Code Plugin",
+	"CreatedBy": "LazyPanda07",
+	"CreatedByURL": "https://github.com/LazyPanda07",
+	"DocsURL": "https://github.com/LazyPanda07/AsyncBlueprintsExtensionPublic/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/30897fddee3844108f20b0326dd0bac8",
+	"SupportURL": "semengricenko@gmail.com",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AsyncBlueprintsExtension",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win32",
+				"Win64",
+				"HoloLens",
+				"Mac",
+				"XboxOne",
+				"PS4",
+				"IOS",
+				"Android",
+				"Linux",
+				"LinuxAArch64",
+				"TVOS",
+				"Switch",
+				"Lumin"
+			]
+		}
+	]
+}

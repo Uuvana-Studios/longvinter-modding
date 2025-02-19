@@ -1,25 +1,25 @@
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingVulkan\Definitions.FSR2TemporalUpscalingVulkan.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscalingVulkan\Public\FSR2TemporalUpscalingVulkan.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscalingVulkan\Public\../../FSR2TemporalUpscaling/Public/FSR2TemporalUpscalingAPI.h
-C:\UE\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
-C:\UE\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
-C:\UE\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
-C:\UE\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
-C:\UE\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
-C:\UE\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-C:\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanRHIPrivate.h
-C:\UE\Engine\Source\Runtime\RHI\Public\RHIValidation.h
-C:\UE\Engine\Source\Runtime\RHI\Public\RHIValidationUtils.h
-C:\UE\Engine\Source\Runtime\RHI\Public\RHIValidationContext.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanPlatform.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanWindowsPlatform.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanRHIPrivate.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\RHIValidationUtils.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\RHIValidationContext.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanPlatform.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanWindowsPlatform.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\excpt.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
@@ -113,30 +113,30 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanGenericPlatform.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanLoader.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_win32.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanCommon.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandsDirect.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanState.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanResources.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
-C:\UE\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
-C:\UE\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
-C:\UE\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanViewport.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanDevice.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanQueue.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandBuffer.h
-C:\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanContext.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanGPUProfiler.h
-C:\UE\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanBarriers.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanGenericPlatform.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanLoader.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_win32.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanCommon.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandsDirect.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanState.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanResources.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
+F:\uuvana\UE\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
+F:\uuvana\UE\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanViewport.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanDevice.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanQueue.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandBuffer.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanContext.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanGPUProfiler.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanBarriers.h

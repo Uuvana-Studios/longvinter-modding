@@ -2,13 +2,13 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:/Users/nilsson/Documents/Devi_stuff/perforce/longvinter-modding/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FFXFSR2D3D12/Private/FFXFSR2D3D12.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2D3D12\Public\FFXFSR2D3D12.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Api\Public\FFXFSR2.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\excpt.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
@@ -102,7 +102,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2_interface.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_assert.h
@@ -111,10 +111,10 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_error.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_resources.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_common.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\dx12/ffx_fsr2_dx12.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
@@ -128,7 +128,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ole2.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
@@ -160,49 +160,51 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ocidl.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgicommon.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgiformat.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcommon.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12sdklayers.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgicommon.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgiformat.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcommon.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12sdklayers.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\dx12/ffx_fsr2_dx12.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\codecvt
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\locale
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocbuf
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\codecvt
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\locale
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocbuf
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xiosbase
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_sanitizer_annotate_container.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_string_view.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_iter_core.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\clocale
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocmes
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocmon
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xloctime
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocmes
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocmon
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xloctime
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\DirectXMath.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
@@ -210,13 +212,14 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\DirectXMathConver
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\DirectXMathVector.inl
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\DirectXMathMatrix.inl
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\DirectXMathMisc.inl
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcompiler.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d11shader.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12shader.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcompiler.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d11shader.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12shader.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\dx12\d3dx12.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\list
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\list
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_bit_utils.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\string
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt\wrl/client.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt\weakreference.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt\inspectable.h
@@ -478,6 +481,6 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\dx12\ffx_fsr2_reconstruct_previous_depth_pass_wave64_16bit_8049cec2d748d10075b5034c6ca82053.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\dx12\ffx_fsr2_rcas_pass_wave64_16bit_permutations.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\dx12\ffx_fsr2_rcas_pass_wave64_16bit_f3d5c728f0eeb7c4f2b0c1bd00debb36.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
 C:/Users/nilsson/Documents/Devi_stuff/perforce/longvinter-modding/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FFXFSR2D3D12/Private/FFXFSR2D3D12Module.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2D3D12\Public\FFXFSR2D3D12Module.h

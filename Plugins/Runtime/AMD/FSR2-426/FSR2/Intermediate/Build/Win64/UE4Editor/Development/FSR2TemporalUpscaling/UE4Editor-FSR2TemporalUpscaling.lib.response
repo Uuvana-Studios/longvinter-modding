@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-FSR2TemporalUpscaling.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\uuvana\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\Module.FSR2TemporalUpscaling.cpp.obj"
 "C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\Module.FSR2TemporalUpscaling.gen.cpp.obj"
-"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"F:\uuvana\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
 /OUT:"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\UE4Editor-FSR2TemporalUpscaling.lib"
 /INCLUDE:IMPLEMENT_MODULE_FSR2TemporalUpscaling

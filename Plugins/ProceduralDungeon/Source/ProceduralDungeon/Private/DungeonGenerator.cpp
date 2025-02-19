@@ -88,6 +88,14 @@ void ADungeonGenerator::Generate(FIntVector position)
 	}
 }
 
+void ADungeonGenerator::GenerateOnClient(int32 GenerationSeed) {
+	LogInfo(FString::Printf(TEXT("GenerationSeed: %d"), GenerationSeed));
+	Seed = GenerationSeed;
+	Random.Initialize(Seed);
+	LogInfo(FString::Printf(TEXT("Seed: %d"), Seed));
+	SetState(EGenerationState::Unload);
+}
+
 void ADungeonGenerator::BeginGeneration_Implementation(uint32 GenerationSeed)
 {
 	Seed = GenerationSeed;

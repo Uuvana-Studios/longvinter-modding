@@ -1,0 +1,229 @@
+[
+	{
+		"Name": "A",
+		"bIsLogin": false,
+		"UserName": "aaa",
+		"Password": "xxx",
+		"Age": 20,
+		"Sex": "Male",
+		"SpawnPosition":
+		{
+			"X": 25,
+			"Y": 36,
+			"Z": 77
+		},
+		"SpawnRotator":
+		{
+			"Pitch": 0,
+			"Yaw": 90,
+			"Roll": 0
+		},
+		"Color":
+		{
+			"R": 0,
+			"G": 0.041733000427484512,
+			"B": 1,
+			"A": 1
+		},
+		"Remark": [
+			"aaa",
+			"aaaa",
+			"aaaaa"
+		],
+		"ChildStruct": [
+			{
+				"partName": "aaa1",
+				"color":
+				{
+					"R": 0,
+					"G": 0,
+					"B": 0,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			},
+			{
+				"partName": "aaa2",
+				"color":
+				{
+					"R": 0,
+					"G": 0,
+					"B": 0,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			},
+			{
+				"partName": "aaa3",
+				"color":
+				{
+					"R": 0,
+					"G": 0,
+					"B": 0,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			}
+		]
+	},
+	{
+		"Name": "B",
+		"bIsLogin": true,
+		"UserName": "bbb",
+		"Password": "xxxx",
+		"Age": 19,
+		"Sex": "Female",
+		"SpawnPosition":
+		{
+			"X": 2246,
+			"Y": 643.5,
+			"Z": 4125
+		},
+		"SpawnRotator":
+		{
+			"Pitch": 65,
+			"Yaw": 55,
+			"Roll": 11
+		},
+		"Color":
+		{
+			"R": 1,
+			"G": 0.40115499496459961,
+			"B": 0.80099201202392578,
+			"A": 1
+		},
+		"Remark": [
+			"nothing"
+		],
+		"ChildStruct": [
+			{
+				"partName": "bbb1",
+				"color":
+				{
+					"R": 0,
+					"G": 0,
+					"B": 0,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			},
+			{
+				"partName": "bbb2",
+				"color":
+				{
+					"R": 0,
+					"G": 0,
+					"B": 0,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			}
+		]
+	},
+	{
+		"Name": "C",
+		"bIsLogin": false,
+		"UserName": "ccc",
+		"Password": "xxxxx",
+		"Age": 33,
+		"Sex": "Other",
+		"SpawnPosition":
+		{
+			"X": 0.48726099729537964,
+			"Y": 1088.199951171875,
+			"Z": 40.869636535644531
+		},
+		"SpawnRotator":
+		{
+			"Pitch": -52,
+			"Yaw": -26.625003814697266,
+			"Roll": 2.2000000476837158
+		},
+		"Color":
+		{
+			"R": 0.19385400414466858,
+			"G": 0.94791698455810547,
+			"B": 0.38236901164054871,
+			"A": 0.81999999284744263
+		},
+		"Remark": [
+			"33212",
+			"aaswer"
+		],
+		"ChildStruct": [
+			{
+				"partName": "ccc1",
+				"color":
+				{
+					"R": 0,
+					"G": 0,
+					"B": 0,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			},
+			{
+				"partName": "ccc2",
+				"color":
+				{
+					"R": 0,
+					"G": 0,
+					"B": 0,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			},
+			{
+				"partName": "ccc3",
+				"color":
+				{
+					"R": 1,
+					"G": 0,
+					"B": 0.20615099370479584,
+					"A": 0
+				},
+				"placementLocation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				}
+			}
+		]
+	}
+]

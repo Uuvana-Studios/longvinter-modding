@@ -1,13 +1,13 @@
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2Api\Definitions.FFXFSR2Api.h
 C:/Users/nilsson/Documents/Devi_stuff/perforce/longvinter-modding/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FFXFSR2Api/Private/FFXFSR2.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Api\Public\FFXFSR2.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\excpt.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
@@ -101,7 +101,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2_interface.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_assert.h
@@ -110,20 +110,22 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_error.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_resources.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_common.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_assert.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_heap_algorithms.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_iter_core.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_minmax.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cmath
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_core.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\ffx_common_types.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\ffx_core_cpu.h
@@ -132,6 +134,6 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_callbacks_hlsl.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2_maximum_bias.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2_private.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
 C:/Users/nilsson/Documents/Devi_stuff/perforce/longvinter-modding/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FFXFSR2Api/Private/FFXFSR2Module.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Api\Public\FFXFSR2Module.h

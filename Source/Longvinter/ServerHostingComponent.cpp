@@ -1,4 +1,4 @@
-// © 2021 Uuvana Studios Oy. All Rights Reserved.
+﻿// © 2021 Uuvana Studios Oy. All Rights Reserved.
 
 
 #include "ServerHostingComponent.h"
@@ -179,6 +179,30 @@ void SetCoopSpawn(FString CoopSpawn, FJsonSerializableArray& FileArray) {
 	}
 }
 
+void SetDefaultPrestigeLevel(FString DefaultPrestige, FJsonSerializableArray& FileArray) {
+	FString variableName = "DefaultPrestigeLevel";
+	FString newConfigLine = variableName + "=" + DefaultPrestige;
+
+	for (int i = 0; i < FileArray.Num(); i++) {
+		if (FileArray[i].StartsWith(variableName)) {
+			FileArray[i].Empty();
+			FileArray[i].Append(newConfigLine);
+		}
+	}
+}
+
+void SetDisableWanderingTraders(FString DisableWanderingTraders, FJsonSerializableArray& FileArray) {
+	FString variableName = "DisableWanderingTraders";
+	FString newConfigLine = variableName + "=" + DisableWanderingTraders;
+
+	for (int i = 0; i < FileArray.Num(); i++) {
+		if (FileArray[i].StartsWith(variableName)) {
+			FileArray[i].Empty();
+			FileArray[i].Append(newConfigLine);
+		}
+	}
+}
+
 // Get variables from the server's Game.ini
 void GetServerName(FString& ServerName, FJsonSerializableArray& FileArray) {
 	FString variableName = "ServerName";
@@ -312,9 +336,44 @@ void GetCoopSpawn(FString& CoopSpawn, FJsonSerializableArray& FileArray) {
 	}
 }
 
+void GetDefaultPrestige(FString& DefaultPrestige, FJsonSerializableArray& FileArray) {
+	FString variableName = "DefaultPrestigeLevel";
+	FString newConfigLine = variableName + "=" + DefaultPrestige;
+
+	for (int i = 0; i < FileArray.Num(); i++) {
+		if (FileArray[i].StartsWith(variableName)) {
+			DefaultPrestige = FileArray[i].RightChop(variableName.Len() + 1);
+		}
+	}
+}
+
+void GetDisableWanderingTraders(FString& DisableWanderingTraders, FJsonSerializableArray& FileArray) {
+	FString variableName = "DisableWanderingTraders";
+	FString newConfigLine = variableName + "=" + DisableWanderingTraders;
+
+	for (int i = 0; i < FileArray.Num(); i++) {
+		if (FileArray[i].StartsWith(variableName)) {
+			DisableWanderingTraders = FileArray[i].RightChop(variableName.Len() + 1);
+		}
+	}
+}
+
 void UServerHostingComponent::StartServer() {
 	FString path = FPaths::ProjectDir() + "Server/Longvinter/Binaries/Win64/LongvinterServer-Win64-Shipping.exe";
-	FPlatformProcess::CreateProc(*path, TEXT("-log"), true, false, false, nullptr, 0, nullptr, nullptr);
+	ServerProcessHandle = FPlatformProcess::CreateProc(*path, TEXT(""), true, false, false, nullptr, 0, nullptr, nullptr);
+	LocalServerStarted = true;
+}
+
+void UServerHostingComponent::StopServer() {
+	if (ServerProcessHandle.IsValid()) {
+		FPlatformProcess::TerminateProc(ServerProcessHandle);
+		FPlatformProcess::CloseProc(ServerProcessHandle);
+
+		UE_LOG(LogTemp, Log, TEXT("Server stopped successfully."));
+	}
+	else {
+		UE_LOG(LogTemp, Warning, TEXT("No valid server process to stop."));
+	}
 }
 
 void UServerHostingComponent::WipeServer() {
@@ -327,7 +386,7 @@ void UServerHostingComponent::WipeServer() {
 	}
 }
 
-void UServerHostingComponent::SaveServerVariables(FString ServerName, FString MaxPlayers, FString Password, FString ServerTag, FString Community, FString Admins, FString PVP, FString Decay, FString MaxTents, FString Public, FString CoopPlay, FString CoopSpawn) {
+void UServerHostingComponent::SaveServerVariables(FString ServerName, FString MaxPlayers, FString Password, FString ServerTag, FString Community, FString Admins, FString PVP, FString Decay, FString MaxTents, FString Public, FString CoopPlay, FString CoopSpawn, FString DefaultPrestige, FString DisableWanderingTraders) {
 	IPlatformFile& PlatformFile = FPlatformFileManager::Get().GetPlatformFile();
 	FString path = FPaths::ProjectDir() + "Server/Longvinter/Saved/Config/WindowsServer/Game.ini";
 	FString defaultPath = FPaths::ProjectDir() + "Server/Longvinter/Saved/Config/WindowsServer/Game.ini.default";
@@ -355,11 +414,13 @@ void UServerHostingComponent::SaveServerVariables(FString ServerName, FString Ma
 	SetPublic(Public, FileArray);
 	SetCoopPlay(CoopPlay, FileArray);
 	SetCoopSpawn(CoopSpawn, FileArray);
+	SetDefaultPrestigeLevel(DefaultPrestige, FileArray);
+	SetDisableWanderingTraders(DisableWanderingTraders, FileArray);
 
 	FFileHelper::SaveStringArrayToFile(FileArray, *path);
 }
 
-void UServerHostingComponent::LoadServerVariables(FString& ServerName, FString& MaxPlayers, FString& Password, FString& ServerTag, FString& Community, FString& Admins, FString& PVP, FString& Decay, FString& MaxTents, FString& Public, FString& CoopPlay, FString& CoopSpawn) {
+void UServerHostingComponent::LoadServerVariables(FString& ServerName, FString& MaxPlayers, FString& Password, FString& ServerTag, FString& Community, FString& Admins, FString& PVP, FString& Decay, FString& MaxTents, FString& Public, FString& CoopPlay, FString& CoopSpawn, FString& DefaultPrestige, FString& DisableWanderingTraders) {
 	IPlatformFile& PlatformFile = FPlatformFileManager::Get().GetPlatformFile();
 	FString path = FPaths::ProjectDir() + "Server/Longvinter/Saved/Config/WindowsServer/Game.ini";
 	FString defaultPath = FPaths::ProjectDir() + "Server/Longvinter/Saved/Config/WindowsServer/Game.ini.default";
@@ -387,4 +448,6 @@ void UServerHostingComponent::LoadServerVariables(FString& ServerName, FString& 
 	GetPublic(Public, FileArray);
 	GetCoopPlay(CoopPlay, FileArray);
 	GetCoopSpawn(CoopSpawn, FileArray);
+	GetDefaultPrestige(DefaultPrestige, FileArray);
+	GetDisableWanderingTraders(DisableWanderingTraders, FileArray);
 }

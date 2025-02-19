@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{EFCBD79F-4F56-38B1-A8BE-E7B93C06D746}",
+	"EngineAssociation": "{947C84E4-4089-2242-2BDA-B79A78046BCD}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -236,11 +236,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "DiscordRichPresence",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bea6edf5f297438ca3e8340702749642"
-		},
-		{
 			"Name": "VaRest",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
@@ -254,11 +249,6 @@
 			"Name": "BlueprintableOnlineBeacons",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/22087fb2e2494de6a2641d7cc97e07f0"
-		},
-		{
-			"Name": "DiscordFeatures",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/116f31feebb24938aaba6227f8617db4"
 		},
 		{
 			"Name": "SteamFix",
@@ -300,6 +290,35 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "BlueprintAssist",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
+		},
+		{
+			"Name": "AsyncBlueprintsExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/30897fddee3844108f20b0326dd0bac8"
+		},
+		{
+			"Name": "ImageCache",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5b7c22cb59734b4fb3bbc3d737712b74"
+		},
+		{
+			"Name": "JsonCsvToDataTableToStruct",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e2cfedae1a22428a8016768471ca23ca"
+		},
+		{
+			"Name": "LowEntryExtStdLib",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		},
+		{
+			"Name": "NetworkTimeSync",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [

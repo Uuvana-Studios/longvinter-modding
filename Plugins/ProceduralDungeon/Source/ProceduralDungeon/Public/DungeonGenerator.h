@@ -28,6 +28,7 @@
 #include "GameFramework/Actor.h"
 #include "Math/RandomStream.h"
 #include "ProceduralDungeonTypes.h"
+#include "Net/UnrealNetwork.h"
 #include "DungeonGenerator.generated.h"
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FGenerationEvent);
@@ -252,6 +253,9 @@ public:
 
 	UFUNCTION(BlueprintPure, Category = "Dungeon Generator", meta=(CompactNodeTitle = "Seed"))
 	int32 GetSeed();
+
+	UFUNCTION(BlueprintCallable, Category = "Dungeon Generator")
+	void GenerateOnClient(int32 GenerationSeed);
 
 private:
 	UPROPERTY(EditAnywhere, Category = "Procedural Generation")

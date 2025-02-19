@@ -35,7 +35,7 @@ namespace SimpleUGC.Automation
 				throw new AutomationException("Plugin '{0}' not found", PluginFile.FullName);
 			}
 
-			string ReleaseVersion = Cmd.ParseParamValue("BasedOnReleaseVersion", "Longvinter");
+			string ReleaseVersion = Cmd.ParseParamValue("BasedOnReleaseVersion", "EA 1.10");
 
 			FileReference ProjectFile = new FileReference(ProjectFileName);
 
@@ -66,7 +66,7 @@ namespace SimpleUGC.Automation
 			string ProjectFileName = ParseParamValue("Project");
 			if(ProjectFileName == null)
 			{
-				ProjectFileName = CombinePaths(CmdEnv.LocalRoot, "Longvinter", "Longvinter.uproject");
+				ProjectFileName = CombinePaths(CmdEnv.LocalRoot, "SimpleGame", "SimpleGame.uproject");
 			}
 			LogInformation(ProjectFileName);
 

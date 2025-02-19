@@ -2,13 +2,13 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:/Users/nilsson/Documents/Devi_stuff/perforce/longvinter-modding/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FFXFSR2Vulkan/Private/FFXFSR2Vulkan.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Vulkan\Public\FFXFSR2Vulkan.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Api\Public\FFXFSR2.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\excpt.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
@@ -102,7 +102,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_fsr2_interface.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_assert.h
@@ -111,63 +111,65 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\ffx_error.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_resources.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders/ffx_fsr2_common.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Vulkan\Private\FSR2VulkanDynamicAPI.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanPlatform.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanWindowsPlatform.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanGenericPlatform.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanLoader.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
-C:\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_win32.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanPlatform.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanWindowsPlatform.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanGenericPlatform.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanLoader.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_win32.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Vulkan\Public\FFXFSR2VulkanModule.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FFXFSR2Vulkan\Public\FSR2VulkanLoader.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\vk/ffx_fsr2_vk.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\vk/ffx_fsr2_vk.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\vk\shaders/ffx_fsr2_shaders_vk.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\vk\../ffx_fsr2_private.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\codecvt
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\locale
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocbuf
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\codecvt
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\locale
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocbuf
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xiosbase
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_sanitizer_annotate_container.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_string_view.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_iter_core.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\clocale
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocmes
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocmon
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xloctime
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocmes
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocmon
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\xloctime
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\vk/shaders/ffx_fsr2_shaders_vk.cpp
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\vk\ffx_fsr2_tcr_autogen_pass_permutations.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\vk\ffx_fsr2_tcr_autogen_pass_7979158f6e58c0607bc73141c47b3c10.h
@@ -286,31 +288,31 @@ C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtim
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\vk\ffx_fsr2_rcas_pass_permutations.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\vk\ffx_fsr2_rcas_pass_b275cf2b6d8d08e858a35bf2be62a72f.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\ffx-fsr2-api\shaders\vk\ffx_fsr2_rcas_pass_c93df0b5c95e478c17b1df74fa7357d2.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
 C:/Users/nilsson/Documents/Devi_stuff/perforce/longvinter-modding/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FFXFSR2Vulkan/Private/FFXFSR2VulkanModule.cpp
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanRHIBridge.h
-C:\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanRHIPrivate.h
-C:\UE\Engine\Source\Runtime\RHI\Public\RHIValidation.h
-C:\UE\Engine\Source\Runtime\RHI\Public\RHIValidationUtils.h
-C:\UE\Engine\Source\Runtime\RHI\Public\RHIValidationContext.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanCommon.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandsDirect.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanState.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanResources.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
-C:\UE\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
-C:\UE\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
-C:\UE\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanViewport.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanDevice.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanQueue.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandBuffer.h
-C:\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanContext.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanGPUProfiler.h
-C:\UE\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
-C:\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanBarriers.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanRHIBridge.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanRHIPrivate.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\RHIValidationUtils.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\RHIValidationContext.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanCommon.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandsDirect.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanState.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanResources.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
+F:\uuvana\UE\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
+F:\uuvana\UE\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanViewport.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanDevice.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanQueue.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandBuffer.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI/Private/VulkanContext.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanGPUProfiler.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+F:\uuvana\UE\Engine\Source\Runtime\VulkanRHI\Private\VulkanBarriers.h
 C:/Users/nilsson/Documents/Devi_stuff/perforce/longvinter-modding/Plugins/Runtime/AMD/FSR2-426/FSR2/Source/FFXFSR2Vulkan/Private/FSR2VulkanLoader.cpp

@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-FFXFSR2Vulkan.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\uuvana\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2Vulkan\Module.FFXFSR2Vulkan.cpp.obj"
-"C:\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"F:\uuvana\UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
 /OUT:"C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FFXFSR2Vulkan\UE4Editor-FFXFSR2Vulkan.lib"
 /INCLUDE:IMPLEMENT_MODULE_FFXFSR2Vulkan

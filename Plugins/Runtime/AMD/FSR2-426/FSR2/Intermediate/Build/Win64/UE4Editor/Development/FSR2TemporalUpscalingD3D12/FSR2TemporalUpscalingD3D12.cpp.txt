@@ -1,23 +1,23 @@
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscalingD3D12\Definitions.FSR2TemporalUpscalingD3D12.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscalingD3D12\Public\FSR2TemporalUpscalingD3D12.h
 C:\Users\nilsson\Documents\Devi_stuff\perforce\longvinter-modding\Plugins\Runtime\AMD\FSR2-426\FSR2\Source\FSR2TemporalUpscalingD3D12\Public\../../FSR2TemporalUpscaling/Public/FSR2TemporalUpscalingAPI.h
-C:\UE\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
-C:\UE\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
-C:\UE\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
-C:\UE\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
-C:\UE\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
-C:\UE\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h
-C:\UE\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
-C:\UE\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Public\D3D12RHI.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHICommon.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Public\D3D12RHI.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHICommon.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\excpt.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
@@ -111,10 +111,10 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows/D3D12RHIBasePrivate.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows/D3D12RHIBasePrivate.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
@@ -128,7 +128,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ole2.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
@@ -160,55 +160,55 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ocidl.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgicommon.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgiformat.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcommon.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12sdklayers.h
-C:\UE\Engine\Source\ThirdParty\Windows\D3DX12\include\d3dx12.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Util.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12DiskCache.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12PipelineState.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows\../D3D12PipelineState.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Residency.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_6.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_5.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_4.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_3.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_2.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgitype.h
-C:\UE\Engine\Source\ThirdParty\Windows\D3DX12\include\D3DX12Residency.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12State.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Resources.h
-C:\UE\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Public\D3D12ShaderResources.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12RootSignature.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Shader.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12View.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandList.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12DirectCommandListManager.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Viewport.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12ConstantBuffer.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Query.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12TimedIntervalQuery.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12DescriptorCache.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12StateCachePrivate.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Allocation.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandContext.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\delayimp.h
-C:\UE\Engine\Source\ThirdParty\Windows\PIX\include\pix3.h
-C:\UE\Engine\Source\ThirdParty\Windows\PIX\include\pix3_win.h
-C:\UE\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsCommon.h
-C:\UE\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsGenerated.h
-C:\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Stats.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Device.h
-C:\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Adapter.h
-C:\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgidebug.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgicommon.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgiformat.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcommon.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12sdklayers.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\D3DX12\include\d3dx12.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Util.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12DiskCache.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12PipelineState.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\Windows\../D3D12PipelineState.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Residency.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_6.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_5.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_4.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_3.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_2.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgitype.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\D3DX12\include\D3DX12Residency.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12State.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Resources.h
+F:\uuvana\UE\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Public\D3D12ShaderResources.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12RootSignature.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Shader.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12View.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandList.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12DirectCommandListManager.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Viewport.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12ConstantBuffer.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Query.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12TimedIntervalQuery.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12DescriptorCache.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12StateCachePrivate.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Allocation.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandContext.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\INCLUDE\delayimp.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\PIX\include\pix3.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\PIX\include\pix3_win.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsCommon.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsGenerated.h
+F:\uuvana\UE\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Stats.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Device.h
+F:\uuvana\UE\Engine\Source\Runtime\D3D12RHI\Private\D3D12Adapter.h
+F:\uuvana\UE\Engine\Source\ThirdParty\Windows\DirectX\include\dxgidebug.h

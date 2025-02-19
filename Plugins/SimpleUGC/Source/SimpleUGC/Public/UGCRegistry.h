@@ -53,6 +53,9 @@ public:
 	// This populates UGCPackages based on what is found in UGC plugin files. If you're mounting new /Plugin paks at runtime. Expose this to Blueprints.
 	UFUNCTION(Blueprintcallable)
 	bool FindUGCPackages();
+
+	UFUNCTION(Blueprintcallable)
+	void FindPackageSteamID(FUGCPackage Package, FString& SteamID, bool& Success);
     
     // General DLC Asset Access. Create Similar Methods For Getting Materials, Textures, etc.
 	
