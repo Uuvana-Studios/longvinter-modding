@@ -4531,6 +4531,54 @@
 					}
 				}
 			}
+		},
+		"/Game/Widgets/MainMenu/Feedbackform/UMG_SimilarReport":
+		{
+			"graphData":
+			{
+				"7DA2C130489F2361C0592A949C726448":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform":
+		{
+			"graphData":
+			{
+				"FD2B2B7D403FA88950F5B88D5FD9874E":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Widgets/MainMenu/UMG_ReportPlayerList":
+		{
+			"graphData":
+			{
+				"3BB9B6F7448C61196CC08595D7BB224D":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Widgets/MainMenu/UMG_ReportPlayerContent":
+		{
+			"graphData":
+			{
+				"522823254D9C59A371D3AFB9CE1ADB5B":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
 		}
 	},
 	"bookmarkedFolders": [],
