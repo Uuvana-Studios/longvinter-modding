@@ -395,8 +395,6 @@ Windows.Engine:/Script/Engine.Engine:StatColorMappings:1=(StatName="Frametime",C
 Windows.Engine:/Script/Engine.Engine:StatColorMappings:2=(StatName="Streaming fudge factor",ColorMap=((In=0.0,Out=(G=255)),(In=1.0,Out=(G=255)),(In=2.5,Out=(R=255,G=255)),(In=5.0,Out=(R=255)),(In=10.0,Out=(R=255))))
 Windows.Engine:/Script/Engine.Engine:DisplayGamma:0=2.2
 Windows.Engine:/Script/Engine.Engine:MinDesiredFrameRate:0=35.000000
-Windows.Engine:/Script/Engine.Engine:NetDriverDefinitions:0=(DefName="GameNetDriver",DriverClassName="/Script/OnlineSubsystemRedpointEOS.EOSNetDriver",DriverClassNameFallback="/Script/OnlineSubsystemUtils.IpNetDriver")
-Windows.Engine:/Script/Engine.Engine:NetDriverDefinitions:1=(DefName="BeaconNetDriver",DriverClassName="/Script/OnlineSubsystemRedpointEOS.EOSNetDriver",DriverClassNameFallback="/Script/OnlineSubsystemUtils.IpNetDriver")
 Windows.Engine:/Script/Engine.Engine:NetDriverDefinitions:2=(DefName="DemoNetDriver",DriverClassName="/Script/Engine.DemoNetDriver",DriverClassNameFallback="/Script/Engine.DemoNetDriver")
 Windows.Engine:/Script/Engine.Engine:NetErrorLogInterval:0=1.0
 Windows.Engine:/Script/Engine.Engine:SerializationOutOfBoundsErrorMessage:0=NSLOCTEXT("","SerializationOutOfBoundsErrorMessage","Corrupt data found, please verify your installation.")
@@ -457,8 +455,6 @@ Windows.Engine:/Script/Engine.UserInterfaceSettings:CustomScalingRuleClass:0=Non
 Windows.Engine:/Script/Engine.UserInterfaceSettings:DesignScreenSize:0=(X=1920,Y=1080)
 Windows.Engine:/Script/Engine.GameEngine:MaxDeltaTime:0=0
 Windows.Engine:/Script/Engine.GameEngine:ServerFlushLogInterval:0=30
-Windows.Engine:/Script/Engine.GameEngine:NetDriverDefinitions:0=(DefName="GameNetDriver",DriverClassName="/Script/OnlineSubsystemRedpointEOS.EOSNetDriver",DriverClassNameFallback="/Script/OnlineSubsystemUtils.IpNetDriver")
-Windows.Engine:/Script/Engine.GameEngine:NetDriverDefinitions:1=(DefName="BeaconNetDriver",DriverClassName="/Script/OnlineSubsystemRedpointEOS.EOSNetDriver",DriverClassNameFallback="/Script/OnlineSubsystemUtils.IpNetDriver")
 Windows.Engine:/Script/Engine.GameEngine:NetDriverDefinitions:2=(DefName="DemoNetDriver",DriverClassName="/Script/Engine.DemoNetDriver",DriverClassNameFallback="/Script/Engine.DemoNetDriver")
 Windows.Engine:Engine.StartupPackages:Package:0=/Engine/EngineMaterials/BlinkingCaret
 Windows.Engine:Engine.StartupPackages:Package:1=/Engine/EngineMaterials/DefaultBokeh
@@ -1608,8 +1604,6 @@ Windows.Engine:EpicOnlineServices:DisablePersistentLogin:0=False
 Windows.Engine:EpicOnlineServices:DevAuthToolAddress:0=localhost6300
 Windows.Engine:EpicOnlineServices:DevAuthToolDefaultCredentialName:0=Context_1
 Windows.Engine:EpicOnlineServices:SimpleFirstPartyLoginUrl:0=
-Windows.Engine:EpicOnlineServices:WidgetClass_EnterDevicePinCode:0=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_EnterDevicePinCode.EOSDefaultUserInterface_EnterDevicePinCode_C
-Windows.Engine:EpicOnlineServices:WidgetClass_SignInOrCreateAccount:0=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_SignInOrCreateAccount.EOSDefaultUserInterface_SignInOrCreateAccount_C
 Windows.Engine:EpicOnlineServices:EnableAntiCheat:0=True
 Windows.Engine:EpicOnlineServices:TrustedClientPublicKey:0=xyza7891rvqKJjoT8nMQjTJOBa3CsINI
 Windows.Engine:EpicOnlineServices:EnableSanctionChecks:0=True
@@ -1823,9 +1817,7 @@ Windows.Game:/Script/LiveLink.LiveLinkSettings:FrameInterpolationProcessor:0=Cla
 Windows.Game:/Script/LiveLink.LiveLinkSettings:DefaultRoleSettings:0=(Role=Class'/Script/LiveLink.LiveLinkAnimationRole', FrameInterpolationProcessor=Class'/Script/LiveLink.LiveLinkAnimationFrameInterpolationProcessor')
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")))
-Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:2=(PrimaryAssetType="UserWidgetRedpointEOS",AssetBaseClass=/Script/CoreUObject.Object,bHasBlueprintClasses=True,bIsEditorOnly=False,Directories=((Path="/OnlineSubsystemRedpointEOS")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Windows.Game:/Script/Engine.AssetManagerSettings:bShouldManagerDetermineTypeAndName:0=True
-Windows.Game:Staging:WhitelistConfigFiles:0=Longvinter/Config/DefaultOnlineSubsystemRedpointEOS.ini
 Windows.Game:Staging:RemapDirectories:0=(From="Engine/Plugins/Lumin", To="Engine/Plugins/MagicLeap")
 Windows.Game:/Script/AutoSettings.AutoSettingsConfig:SettingsIniName:0=Settings
 Windows.Game:/Script/AutoSettings.AutoSettingsConfig:SettingsSectionName:0=Settings
@@ -3037,14 +3029,6 @@ Windows.Editor:BlueprintNativizationSettings:ExcludedAssetTypes:0=/Script/Contro
 Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:0=/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface
 Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:1=/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter
 Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:2=/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:3=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_AccountButton
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:4=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_AccountSelectCheckbox
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:5=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_AccountSelectText
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:6=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_EnterDevicePinCode
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:7=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_LinkEOSAccountsAgainstCrossPlatform
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:8=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_SelectEOSAccount
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:9=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_SwitchToCrossPlatformAccount
-Windows.Editor:BlueprintNativizationSettings:ExcludedAssets:10=/OnlineSubsystemRedpointEOS/EOSDefaultUserInterface_SignInOrCreateAccount
 Windows.Editor:BlueprintNativizationSettings:ExcludedFolderPaths:0=/MediaFrameworkUtilities
 Windows.Editor:BlueprintNativizationSettings:NoExportTypesWithDirectNativeFieldAccess:0=/Script/CoreUObject.Guid
 Windows.Editor:BlueprintNativizationSettings:NoExportTypesWithDirectNativeFieldAccess:1=/Script/CoreUObject.Vector
@@ -4517,24 +4501,6 @@ Windows.PostSplashScreen:PreLoadScreen.UISettings:LoadingGroups:0=PostSplashScre
 Windows.PostSplashScreen:PreLoadScreen.UISettings:CustomImageBrushes:0=(SplashScreenBrush,Resources/SplashScreen.png,1920,1080,(PostSplashScreen))
 Windows.PostSplashScreen:PreLoadScreen.UISettings:ScreenGroupings:0=(SG_SplashScreen,SplashScreenBrush,NullText,48)
 Windows.PostSplashScreen:PreLoadScreen.UISettings:ScreenOrders:0=(PostSplashScreen,SG_SplashScreen)
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:ChannelDefinitions:0=(ChannelName=Control, ClassName=/Script/OnlineSubsystemRedpointEOS.EOSControlChannel, StaticChannelIndex=0, bTickOnCreate=true, bServerOpen=false, bClientOpen=true, bInitialServer=false, bInitialClient=true)
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:ChannelDefinitions:1=(ChannelName=Voice, ClassName=/Script/Engine.VoiceChannel, StaticChannelIndex=1, bTickOnCreate=true, bServerOpen=true, bClientOpen=true, bInitialServer=true, bInitialClient=true)
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:ChannelDefinitions:2=(ChannelName=Actor, ClassName=/Script/Engine.ActorChannel, StaticChannelIndex=-1, bTickOnCreate=false, bServerOpen=true, bClientOpen=false, bInitialServer=false, bInitialClient=false)
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:NetConnectionClassName:0=/Script/OnlineSubsystemRedpointEOS.EOSNetConnection
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:ConnectionTimeout:0=80.0
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:InitialConnectTimeout:0=120.0
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:NetServerMaxTickRate:0=30
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:MaxNetTickRate:0=120
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:KeepAliveTime:0=0.2
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:MaxClientRate:0=100000
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:MaxInternetClientRate:0=100000
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:RelevantTimeout:0=5.0
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:SpawnPrioritySeconds:0=1.0
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:ServerTravelPause:0=4.0
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:TimeoutMultiplierForUnoptimizedBuilds:0=1
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:RecentlyDisconnectedTrackingTime:0=120
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:MaxPortCountToTry:0=512
-Windows.OnlineSubsystemRedpointEOS:/Script/OnlineSubsystemRedpointEOS.EOSNetDriver:ResolutionConnectionTimeout:0=20.0
 Windows.GameplayTags:/Script/GameplayTags.GameplayTagsSettings:ImportTagsFromConfig:0=True
 Windows.GameplayTags:/Script/GameplayTags.GameplayTagsSettings:WarnOnInvalidTags:0=True
 Windows.GameplayTags:/Script/GameplayTags.GameplayTagsSettings:FastReplication:0=False
